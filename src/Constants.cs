@@ -3,8 +3,8 @@ namespace OpenAIRequestExample
 {
     public static class Constants
     {
-        public static string endpoint = "https://oferopenaiplayground.openai.azure.com";
-        public static string apiKey = "c1d5ccf69b8947648bd6578a788d2681";
+        public static string endpoint = "";
+        public static string apiKey = "";
         public static string deployment = "text-davinci-003";
 
         public static string TooManyRequestsErrorMessage = "There was an error, please try again shortly (remember there is a system limitation of 1 message / min";
